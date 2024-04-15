@@ -25,3 +25,7 @@ The following section contains past and current examples of how to jailbreak app
 ## How To Contribute
 
 GitHub makes it easy for you. Just do a pull request. If I have been sitting on our PR for over a day, please contact me on Twitter and other social media where I can hang out.
+
+## Hacking Trivia
+
+This collection of jailbreaking techniques for LLMs follows in the tradition of earlier compilations that cataloged vulnerabilities across different platforms. Notable examples include the Google Hacking Database, which indexed search queries that identified exploitable information on websites, and RSnake's XSS Cheat Sheet, a resource crucial for understanding cross-site scripting vulnerabilities. These databases, like this one, served as valuable resources for both security professionals and ethical hackers aiming to safeguard systems by understanding and mitigating potential exploits.
