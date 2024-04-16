@@ -34,6 +34,7 @@ The following section contains past and current examples of how to jailbreak app
 ## Defence
 
 **Fine-tunning** - a large portion of these exploits can be fixed with more fine-tunning. The problem is that this is harder and expensive for larger models.
+**Prompt-leak detection** - you can check if the prompt is leaked by doing simple string lookup. This is slightly trickier when the model is streaming but it is not impossible.
 
 ## How To Contribute
 
