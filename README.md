@@ -1,3 +1,5 @@
+[![AI Impact on Cyber Security Survey](https://img.shields.io/badge/FormShare-Impact_of_AI_on_Security-blue?style=flat-square)](https://formshare.ai/s/WXgu9dufl8)
+
 # LLM Hacking Database
 
 This file contains various prompts and ideas for hacking/jailbreaking LLMs. This database is a work in progress. Feel free to contribute.
